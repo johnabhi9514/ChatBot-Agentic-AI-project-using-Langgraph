@@ -1,0 +1,17 @@
+[project]
+name = "chatbot-with-langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "langchain>=1.2.10",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.13",
+    "langchain-groq>=1.1.2",
+    "langchain-openai>=1.1.9",
+    "langgraph>=1.0.8",
+    "streamlit>=1.54.0",
+    "tavily-python>=0.7.21",
+]
