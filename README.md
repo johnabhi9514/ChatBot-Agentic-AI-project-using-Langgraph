@@ -1,6 +1,8 @@
-## E2E ChatBot Agentic AI project using Langgraph
+## E2E Agentic AI ChatBot project using Langgraph
+
 Follow Below step to install the project
-uv venv --python 3.13
-.venv\Scripts\activate
-install requirements file
-uv add -r requirements.txt
+
+1) uv venv --python 3.13
+2) .venv\Scripts\activate
+3) install requirements file
+4) uv add -r requirements.txt
