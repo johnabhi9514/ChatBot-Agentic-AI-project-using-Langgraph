@@ -1,6 +1,6 @@
 # LangGraph Agentic AI – Streamlit Application
 
-An **Agentic AI application** built using **LangGraph, Streamlit, and Groq LLM**.
+An **Agentic AI application chatbot** built using **LangGraph, Streamlit, and Groq LLM**.
 The project demonstrates how to build **tool-using AI agents**, structured workflows, and multi-usecase chatbot systems.
 
 ---
